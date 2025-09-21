@@ -25,17 +25,19 @@ Effortlessly analyze videos for **key frames, object detection, audio transcript
 ## 📸 Screenshots
 
 <div align="center">
-  ![alt text](image.png)
-    <img src="screenshots/result_page.png" alt="Analysis Result" width="600" />
+<img width="1918" height="1013" alt="image" src="https://github.com/user-attachments/assets/507c20d9-4b1e-4c09-a343-efdb17c32cf4" />
+
+   <img width="1916" height="918" alt="image" src="https://github.com/user-attachments/assets/624bbc2d-7958-409c-ba49-dd6dc352923b" />
+
 </div>
 
 ---
 
 ## 💻 Tech Stack
 
-- **Frontend:** Next.js 13, React, Tailwind CSS
-- **Backend:** Python 3.10+, OpenCV, ffmpeg, Faster Whisper, Ultralytics YOLOv8
-- **AI Summaries:** Ollama LLM (optional)
+- **Frontend:** Next.js 15, React, Tailwind CSS
+- **Backend:** Python 3.12+, OpenCV, ffmpeg, Faster Whisper, Ultralytics YOLOv8
+- **AI Summaries:** Ollama LLM 
 - **Deployment:** Ready for Vercel, Render, or any server supporting Next.js + Python API
 
 ---
