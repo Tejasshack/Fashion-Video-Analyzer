@@ -37,7 +37,7 @@ function Analyzer() {
     <div className="min-h-screen bg-gray-100 flex items-center justify-center p-6">
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-8">
         <h1 className="text-2xl font-bold text-gray-800 mb-6 text-center">
-          🎬 AI Video Analyzer
+          🎬 Fashion Video Analyzer Ai
         </h1>
 
         <form

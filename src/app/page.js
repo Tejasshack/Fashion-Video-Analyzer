@@ -7,7 +7,7 @@ export default function Home() {
     <div className="min-h-screen bg-gray-50 flex flex-col items-center justify-center p-6">
       {/* Main Heading */}
       <h1 className="text-5xl font-extrabold text-gray-800 mb-6 text-center">
-        🎬 AI Video Analyzer
+        🎬 Fashion Video Analyzer Ai
       </h1>
 
       {/* Description */}
@@ -28,7 +28,7 @@ export default function Home() {
       <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl w-full">
         <div className="bg-white shadow-lg rounded-2xl p-6 flex flex-col items-center">
           <Image
-            src="/icons/frames.svg"
+            src="/images/frame.png"
             alt="Key Frames"
             width={80}
             height={80}
@@ -42,7 +42,7 @@ export default function Home() {
 
         <div className="bg-white shadow-lg rounded-2xl p-6 flex flex-col items-center">
           <Image
-            src="/icons/objects.svg"
+            src="/images/object.jpg"
             alt="Object Detection"
             width={80}
             height={80}
@@ -56,7 +56,7 @@ export default function Home() {
 
         <div className="bg-white shadow-lg rounded-2xl p-6 flex flex-col items-center">
           <Image
-            src="/icons/transcript.svg"
+            src="/images/trans.png"
             alt="Transcript"
             width={80}
             height={80}

@@ -37,7 +37,7 @@ export default function Home() {
       <div className="w-full max-w-2xl bg-white shadow-lg rounded-2xl p-8">
         {/* Heading */}
         <h1 className="text-2xl font-bold text-gray-800 mb-6 text-center">
-          🎬 AI Video Analyzer
+          🎬 Fashion Video Analyzer Ai
         </h1>
 
         {/* Upload Form */}

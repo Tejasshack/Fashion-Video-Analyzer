@@ -1,0 +1,161 @@
+{
+  "duration": 34.8,
+  "fps": 30.0,
+  "num_sampled_frames": 35,
+  "num_key_frames": 8,
+  "key_frames": [
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_0.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_3.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_4.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_12.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_14.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_17.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_31.jpg",
+    "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_33.jpg"
+  ],
+  "detections": [
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_0.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.7936493754386902,
+          "box": [
+            75.1312255859375,
+            59.23199462890625,
+            347.24945068359375,
+            640.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_3.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.6920548677444458,
+          "box": [
+            0.0,
+            3.08953857421875,
+            360.0,
+            634.0933837890625
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_4.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.880082905292511,
+          "box": [
+            6.65069580078125,
+            34.44873046875,
+            359.34967041015625,
+            636.9674072265625
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.5850843191146851,
+          "box": [
+            164.47894287109375,
+            36.758819580078125,
+            310.38134765625,
+            288.9630126953125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_12.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8780906200408936,
+          "box": [
+            40.094818115234375,
+            56.5091552734375,
+            340.85284423828125,
+            638.026123046875
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_14.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.7353612184524536,
+          "box": [
+            0.0,
+            0.1055908203125,
+            360.0,
+            634.9776611328125
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.4260759949684143,
+          "box": [
+            0.9552154541015625,
+            161.13351440429688,
+            182.56246948242188,
+            340.0391540527344
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_17.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8814073801040649,
+          "box": [
+            40.62957763671875,
+            23.5382080078125,
+            332.3218994140625,
+            638.9190673828125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_31.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.6215009093284607,
+          "box": [
+            0.0,
+            1.53118896484375,
+            359.80029296875,
+            631.8425903320312
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\fe4a528e51ac4958ab5b3dee7340b9b7\\frames\\frame_33.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8973729014396667,
+          "box": [
+            81.09097290039062,
+            27.01226806640625,
+            359.4010009765625,
+            637.9812622070312
+          ]
+        }
+      ]
+    }
+  ],
+  "visuals_summary": "person: 10 occurrences",
+  "transcript": " is simple frockne style chheda with the cotta fabric  choose the super classy gondi design and all  this pretty dress is from pastels by roshni page  na ke te i baby pink colour chalba na chindi  illanti colour se de illanti skin tones wala ke na seta po tundi  cotta fabric pa nai laa simple design chein charu  looks so classy and super comfortable undai",
+  "summary": "Here is a concise IDEO-style summary:\n\n**Setting:** The scene is set in a modern, urban environment, likely in India.\n\n**Main Actions:**\n\n* The person is shown wearing a simple frockne style chheda with a cotta fabric.\n* The outfit is described as super classy and comfortable.\n* The person is seen wearing a baby pink colored chheda with a contrasting illanti color.\n\n**Noteworthy Moments:**\n\n* The outfit is from the brand \"Pastels by Roshni\".\n* The person's skin tone is highlighted as matching with the illanti color.\n* The cotta fabric is mentioned as simple and comfortable.\n* The overall design is described as classy and super comfortable."
+}

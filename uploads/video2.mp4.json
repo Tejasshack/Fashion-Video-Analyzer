@@ -1,0 +1,873 @@
+{
+  "duration": 80.91416666666667,
+  "fps": 29.97002997002997,
+  "num_sampled_frames": 81,
+  "num_key_frames": 39,
+  "key_frames": [
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_0.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_2.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_3.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_5.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_7.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_10.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_12.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_13.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_15.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_17.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_19.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_20.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_22.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_23.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_25.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_26.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_28.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_30.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_31.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_36.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_39.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_41.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_43.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_45.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_47.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_49.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_52.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_56.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_57.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_59.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_60.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_61.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_65.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_66.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_68.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_70.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_72.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_74.jpg",
+    "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_78.jpg"
+  ],
+  "detections": [
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_0.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.929174542427063,
+          "box": [
+            0.0,
+            58.906005859375,
+            359.39703369140625,
+            639.6644287109375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_2.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9716503024101257,
+          "box": [
+            2.075469970703125,
+            46.60992431640625,
+            358.3882141113281,
+            638.5216064453125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_3.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.5806022882461548,
+          "box": [
+            0.0,
+            0.47479248046875,
+            218.08570861816406,
+            544.2048950195312
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.4493488669395447,
+          "box": [
+            24.27515411376953,
+            0.92529296875,
+            270.3096923828125,
+            530.8262939453125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_5.jpg",
+      "objects": [
+        {
+          "label": "potted plant",
+          "conf": 0.8781289458274841,
+          "box": [
+            240.54953002929688,
+            180.69302368164062,
+            360.0,
+            496.8617248535156
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.8402758240699768,
+          "box": [
+            109.71990966796875,
+            58.04888916015625,
+            255.55914306640625,
+            584.2592163085938
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.6697542071342468,
+          "box": [
+            140.81631469726562,
+            50.56451416015625,
+            269.9855041503906,
+            577.0914306640625
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2848057150840759,
+          "box": [
+            0.0,
+            352.9935607910156,
+            62.914947509765625,
+            384.3324279785156
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.27119821310043335,
+          "box": [
+            0.7082748413085938,
+            340.1141357421875,
+            56.77532196044922,
+            356.438232421875
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2645117938518524,
+          "box": [
+            0.51751708984375,
+            349.52337646484375,
+            58.01764678955078,
+            364.26068115234375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_7.jpg",
+      "objects": [
+        {
+          "label": "potted plant",
+          "conf": 0.6564453840255737,
+          "box": [
+            205.79721069335938,
+            23.1209716796875,
+            360.0,
+            327.6844482421875
+          ]
+        },
+        {
+          "label": "vase",
+          "conf": 0.31842106580734253,
+          "box": [
+            278.3541259765625,
+            230.65611267089844,
+            356.7247314453125,
+            327.50830078125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_10.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.38996025919914246,
+          "box": [
+            0.927581787109375,
+            169.70347595214844,
+            295.8462829589844,
+            638.968505859375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_12.jpg",
+      "objects": [
+        {
+          "label": "suitcase",
+          "conf": 0.2863079309463501,
+          "box": [
+            55.396270751953125,
+            226.7335205078125,
+            241.70242309570312,
+            324.03375244140625
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_13.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9548044204711914,
+          "box": [
+            0.917144775390625,
+            54.12725830078125,
+            358.29888916015625,
+            639.6633911132812
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_15.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9327915906906128,
+          "box": [
+            32.295440673828125,
+            84.04315185546875,
+            358.8109130859375,
+            638.2256469726562
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_17.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9211552143096924,
+          "box": [
+            53.23357391357422,
+            40.086181640625,
+            266.70281982421875,
+            638.2432861328125
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.8601070046424866,
+          "box": [
+            233.24452209472656,
+            188.5428466796875,
+            360.0,
+            511.72210693359375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_19.jpg",
+      "objects": [
+        {
+          "label": "suitcase",
+          "conf": 0.4182605743408203,
+          "box": [
+            9.06878662109375,
+            169.97100830078125,
+            356.09002685546875,
+            637.013427734375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_20.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8725167512893677,
+          "box": [
+            0.0,
+            1.34637451171875,
+            359.712158203125,
+            640.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_22.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8396310210227966,
+          "box": [
+            2.540985107421875,
+            0.0,
+            354.6312561035156,
+            640.0
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_23.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9294039011001587,
+          "box": [
+            62.45635986328125,
+            19.70855712890625,
+            332.10821533203125,
+            639.9783935546875
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.8129922151565552,
+          "box": [
+            249.35003662109375,
+            189.87066650390625,
+            360.0,
+            511.464111328125
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2702375650405884,
+          "box": [
+            0.7077484130859375,
+            348.411376953125,
+            41.92957305908203,
+            364.988525390625
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_25.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8932464718818665,
+          "box": [
+            19.211090087890625,
+            50.52447509765625,
+            183.1766357421875,
+            612.0782470703125
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.7933706641197205,
+          "box": [
+            269.422607421875,
+            288.8792724609375,
+            360.0,
+            509.78765869140625
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_26.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9509130716323853,
+          "box": [
+            0.634490966796875,
+            65.2611083984375,
+            359.0594787597656,
+            639.00390625
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.31777501106262207,
+          "box": [
+            261.54400634765625,
+            87.57504272460938,
+            359.78265380859375,
+            331.80853271484375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_28.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9083425402641296,
+          "box": [
+            4.074493408203125,
+            0.0,
+            353.1697082519531,
+            638.1619873046875
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_30.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8520783185958862,
+          "box": [
+            0.0,
+            0.75848388671875,
+            359.838134765625,
+            634.0108642578125
+          ]
+        },
+        {
+          "label": "tie",
+          "conf": 0.5825746655464172,
+          "box": [
+            72.75198364257812,
+            181.37109375,
+            181.44833374023438,
+            628.45703125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_31.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9275567531585693,
+          "box": [
+            84.78414916992188,
+            54.626220703125,
+            264.4472961425781,
+            583.4938354492188
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.9033095836639404,
+          "box": [
+            251.2630615234375,
+            190.63525390625,
+            360.0,
+            511.76593017578125
+          ]
+        },
+        {
+          "label": "vase",
+          "conf": 0.3109985589981079,
+          "box": [
+            287.6925354003906,
+            419.931884765625,
+            359.4512634277344,
+            513.12255859375
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2524380683898926,
+          "box": [
+            0.8149929046630859,
+            366.1280822753906,
+            47.13703155517578,
+            394.2613220214844
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_36.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.5963137745857239,
+          "box": [
+            0.0,
+            0.38824462890625,
+            360.0,
+            581.3174438476562
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_39.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9291018843650818,
+          "box": [
+            40.95074462890625,
+            0.0,
+            360.0,
+            638.933349609375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_41.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9484573006629944,
+          "box": [
+            1.172119140625,
+            65.23565673828125,
+            358.40667724609375,
+            639.3467407226562
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.31567859649658203,
+          "box": [
+            267.42205810546875,
+            86.91061401367188,
+            360.0,
+            328.6216735839844
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_43.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8413711786270142,
+          "box": [
+            3.59967041015625,
+            2.0469970703125,
+            359.58587646484375,
+            639.77392578125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_45.jpg",
+      "objects": []
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_47.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.773759126663208,
+          "box": [
+            0.0,
+            1.54290771484375,
+            359.9468078613281,
+            606.8843383789062
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_49.jpg",
+      "objects": [
+        {
+          "label": "clock",
+          "conf": 0.8346459865570068,
+          "box": [
+            115.15774536132812,
+            163.490234375,
+            241.68338012695312,
+            283.4786376953125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_52.jpg",
+      "objects": [
+        {
+          "label": "scissors",
+          "conf": 0.3235413134098053,
+          "box": [
+            0.44134521484375,
+            9.54296875,
+            294.99945068359375,
+            438.646728515625
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_56.jpg",
+      "objects": [
+        {
+          "label": "clock",
+          "conf": 0.6304207444190979,
+          "box": [
+            18.075347900390625,
+            188.19024658203125,
+            215.0831298828125,
+            393.25604248046875
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_57.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.8794946670532227,
+          "box": [
+            9.737945556640625,
+            0.0,
+            360.0,
+            640.0
+          ]
+        },
+        {
+          "label": "cell phone",
+          "conf": 0.25888925790786743,
+          "box": [
+            97.62405395507812,
+            278.49566650390625,
+            249.42324829101562,
+            376.69805908203125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_59.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.7531276345252991,
+          "box": [
+            0.1640625,
+            0.98529052734375,
+            358.57427978515625,
+            601.723388671875
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_60.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9553385376930237,
+          "box": [
+            3.812286376953125,
+            62.5548095703125,
+            358.84844970703125,
+            639.1023559570312
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.26590201258659363,
+          "box": [
+            261.1944580078125,
+            87.35946655273438,
+            359.7755126953125,
+            323.18939208984375
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_61.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.7789568305015564,
+          "box": [
+            146.87075805664062,
+            3.14849853515625,
+            359.5610656738281,
+            612.1935424804688
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_65.jpg",
+      "objects": [
+        {
+          "label": "potted plant",
+          "conf": 0.8961982131004333,
+          "box": [
+            228.63046264648438,
+            183.66650390625,
+            360.0,
+            506.21978759765625
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.8947257995605469,
+          "box": [
+            68.95982360839844,
+            49.6112060546875,
+            241.3089141845703,
+            589.328369140625
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.4596233665943146,
+          "box": [
+            0.14882659912109375,
+            360.7107238769531,
+            43.13794708251953,
+            391.6109313964844
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.35651206970214844,
+          "box": [
+            0.7006187438964844,
+            348.2218017578125,
+            34.269371032714844,
+            361.1748046875
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.3305775821208954,
+          "box": [
+            0.6432762145996094,
+            347.07293701171875,
+            34.724369049072266,
+            367.65020751953125
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.28050220012664795,
+          "box": [
+            0.15892982482910156,
+            371.641357421875,
+            42.73979949951172,
+            388.516845703125
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2637540400028229,
+          "box": [
+            0.5934791564941406,
+            358.37799072265625,
+            42.45577621459961,
+            375.88507080078125
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_66.jpg",
+      "objects": []
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_68.jpg",
+      "objects": []
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_70.jpg",
+      "objects": []
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_72.jpg",
+      "objects": [
+        {
+          "label": "suitcase",
+          "conf": 0.7192444205284119,
+          "box": [
+            8.0513916015625,
+            186.39122009277344,
+            334.94537353515625,
+            637.8486328125
+          ]
+        },
+        {
+          "label": "person",
+          "conf": 0.4310937225818634,
+          "box": [
+            318.7453308105469,
+            142.59646606445312,
+            359.4364929199219,
+            234.64736938476562
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_74.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.4596622586250305,
+          "box": [
+            7.87860107421875,
+            0.0,
+            330.04681396484375,
+            513.0342407226562
+          ]
+        }
+      ]
+    },
+    {
+      "frame": "tmp_fast\\bb9a84f98f4243e9bfeda710b7ec61ef\\frames\\frame_78.jpg",
+      "objects": [
+        {
+          "label": "person",
+          "conf": 0.9224408864974976,
+          "box": [
+            91.71640014648438,
+            21.4495849609375,
+            287.2032165527344,
+            621.2598876953125
+          ]
+        },
+        {
+          "label": "potted plant",
+          "conf": 0.7769065499305725,
+          "box": [
+            248.17529296875,
+            172.24560546875,
+            360.0,
+            542.230224609375
+          ]
+        },
+        {
+          "label": "book",
+          "conf": 0.2665254771709442,
+          "box": [
+            0.0,
+            358.9391784667969,
+            52.24846649169922,
+            390.6852111816406
+          ]
+        }
+      ]
+    }
+  ],
+  "visuals_summary": "person: 31 occurrences\npotted plant: 11 occurrences\nbook: 11 occurrences\nsuitcase: 3 occurrences\nvase: 2 occurrences\nclock: 2 occurrences\ntie: 1 occurrences\nscissors: 1 occurrences",
+  "transcript": " Five clothing items worth investing in this year.  A good pair of boots are worth investing in  because you don't need a collection of boots.  You buy one good pair and you're set for life.  These are the DME Rocha Vet hiking boots  that are made in Italy.  I wear these constantly in the fall, winter, and springtime.  Let's be honest, there is a good chance  that you wear a hoodie every day.  So spending on something you wear most just makes sense.  This is the seventh V2 hoodie.  Quality is incredible.  It's double-lined, made in Korea.  I love them so much.  I have a few different colors, even a pullover version.  Next up is a simple jacket with a collar.  I personally feel these are more versatile  because the added collar means you can dress them up  or down much easier.  This is from a great Canadian brand called Outclass.  It's made in Canada from premium Italian wool,  and I love the added flat pockets and double zipper,  which every jacket should have.  Every man deserves a great watch.  Now we love our $50 cast heels,  so spending a little bit more can get you something  that you'll cherish for a lifetime  and maybe even pass down to your kids one day.  I recommend the Seiko 5 GMT.  It can be dressed up,  but it's very much a jeans and t-shirt kind of watch.  It has an open case back  which allows you to see the automatic movement.  Plus Seiko is just a well-respected watch brand.  Then there's jeans.  Like the hoodie, you wear them all the time,  makes sense to invest,  and selvage jeans are a great place to start  because they're generally more durable  than a standard pair of jeans.  These are from Naked and Famous,  which is a great starter brand.  They're made in Canada with Japanese denim,  and I purposely went with a straight fit  because that style is ultimately the more timeless choice  as opposed to baggy.  Add them all up and you have a timeless outfit.  All clothing items are linked in my bio.",
+  "summary": "**Setting:** The speaker's home, with a potted plant and book visible in the background.\n\n**Main Actions:** The speaker shares five clothing items worth investing in, highlighting their personal experiences and preferences.\n\n**Noteworthy Moments:**\n\n* The speaker emphasizes the importance of investing in quality, timeless clothing, rather than buying cheap, trendy items.\n* They recommend a pair of DME Rocha Vet hiking boots, made in Italy, as a worthwhile investment.\n* The speaker shares their love for the seventh V2 hoodie, made in Korea, and its versatility.\n* They introduce the Outclass jacket, made in Canada from premium Italian wool, and its features, such as flat pockets and double zipper.\n* The speaker recommends the Seiko 5 GMT watch, highlighting its automatic movement and timeless design.\n* They suggest starting with selvage jeans from Naked and Famous, made in Canada with Japanese denim.\n* The speaker concludes by emphasizing the value of investing in quality, timeless clothing that can be worn for years to come.\n\n**Tone and Style:** The speaker's tone is conversational and enthusiastic, with a focus on sharing personal experiences and recommendations. The style is informal and relaxed, with a touch of humor."
+}
