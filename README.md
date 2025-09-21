@@ -15,6 +15,21 @@ Effortlessly analyze videos for **key frames, object detection, audio transcript
 
 https://drive.google.com/file/d/1ccmQiVECe9AyF_qmmfPBTvi2JnwgxV-K/view?usp=sharing
 
+
+---
+
+## Reference video i used for analysis
+
+
+
+https://github.com/user-attachments/assets/c78f4453-62d7-4135-b39a-57a2245d2eae
+
+
+
+https://github.com/user-attachments/assets/4135711c-f74d-4579-a804-8677cc2a4772
+
+
+
 ## 🚀 Features
 
 - **Drag & Drop Upload:** Instantly upload and analyze any video file in your browser.
