@@ -1,36 +1,126 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬 AI Video Analyzer
 
-## Getting Started
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3+-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python)](https://www.python.org/)
 
-First, run the development server:
+A **blazing-fast, AI-powered video analyzer** built with **Next.js**, **Tailwind CSS**, and a robust **Python backend**.  
+Effortlessly analyze videos for **key frames, object detection, audio transcripts, and AI-generated summaries** in a modern web interface.
+
+---
+
+## 🚀 Features
+
+- **Drag & Drop Upload:** Instantly upload and analyze any video file in your browser.
+- **Key Frame Detection:** Automatically highlights the most important frames.
+- **Object Detection:** Fast, accurate recognition using YOLOv8.
+- **Audio Transcription:** Converts speech to text with high accuracy.
+- **Visual Summary:** Clear, human-readable highlights of key actions and objects.
+- **AI Summaries:** Generate concise overviews using Ollama or other LLMs.
+- **Responsive UI:** Beautiful, mobile-friendly interface powered by Tailwind CSS.
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
+  ![alt text](image.png)
+    <img src="screenshots/result_page.png" alt="Analysis Result" width="600" />
+</div>
+
+---
+
+## 💻 Tech Stack
+
+- **Frontend:** Next.js 13, React, Tailwind CSS
+- **Backend:** Python 3.10+, OpenCV, ffmpeg, Faster Whisper, Ultralytics YOLOv8
+- **AI Summaries:** Ollama LLM (optional)
+- **Deployment:** Ready for Vercel, Render, or any server supporting Next.js + Python API
+
+---
+
+## ⚡ Getting Started
+
+### 1️⃣ Clone the repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/yourusername/ai-video-analyzer.git
+cd ai-video-analyzer
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2️⃣ Install Next.js frontend dependencies
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+```bash
+cd frontend
+npm install
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 3️⃣ Install Python backend dependencies
 
-## Learn More
+```bash
+cd ../backend
+pip install -r requirements.txt
+```
 
-To learn more about Next.js, take a look at the following resources:
+### 4️⃣ Run the Next.js frontend
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+cd frontend
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 5️⃣ Run the Python video analysis script
 
-## Deploy on Vercel
+```bash
+python analyze_video_fast.py <video.mp4> output.json [device]
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- `video.mp4`: Path to your input video
+- `output.json`: Path to save analysis results
+- `[device]`: Optional, use `cpu` or `cuda`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🖱 Usage
+
+1. Open the web app in your browser.
+2. Upload your video via drag-and-drop.
+3. Click **Upload & Analyze**.
+4. View:
+     - Key frames
+     - Object detections
+     - Transcript
+     - Visual summary
+     - AI-generated summary (if enabled)
+
+---
+
+## 🌟 Roadmap
+
+- Real-time streaming video analysis
+- Multi-language transcription support
+- Integration with more LLMs for advanced summaries
+- Download results as PDF/JSON
+
+---
+
+## 📂 Folder Structure
+
+```
+ai-video-analyzer/
+├─ frontend/               # Next.js app
+│  ├─ src/
+│  │  ├─ app/
+│  │  │  ├─ page.js
+│  │  │  └─ home/
+│  │  │      └─ page.js
+│  │  ├─ components/
+│  │  │  └─ VideoAnalyzer.jsx
+│  │  └─ styles/
+│  └─ package.json
+├─ backend/                # Python analysis scripts
+│  ├─ analyze_video_fast.py
+│  └─ requirements.txt
+└─ README.md
+```
