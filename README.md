@@ -121,13 +121,15 @@ Ollama **Llama 3.2 Vision** is required for AI-powered image and video frame ana
 
 Open a terminal and run:
 
-This will download the ollama model 
+
 ```bash
+#This will download the ollama model 
 ollama pull llama3.2-vision
 
 
-This command will run the ollama model
+
 ```bash
+#This command will run the ollama model
 ollama serve
 
 
