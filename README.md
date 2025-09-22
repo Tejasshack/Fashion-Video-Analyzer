@@ -110,6 +110,12 @@ Ollama **Llama 3.2 Vision** is required for AI-powered image and video frame ana
 
 ---
 
+## 🛠️ Integrating Ollama Llama 3.2 Vision
+
+Ollama **Llama 3.2 Vision** is required for AI-powered image and video frame analysis.
+
+---
+
 ### 1️⃣ Install Ollama
 
 - Download Ollama from the [official website](https://ollama.com)  
@@ -121,15 +127,15 @@ Ollama **Llama 3.2 Vision** is required for AI-powered image and video frame ana
 
 Open a terminal and run:
 
-
 ```bash
-#This will download the ollama model 
+# This will download the Ollama model
 ollama pull llama3.2-vision
 
+---
 
+### 3️⃣ This command will run the ollama model
 
 ```bash
-#This command will run the ollama model
 ollama serve
 
 
