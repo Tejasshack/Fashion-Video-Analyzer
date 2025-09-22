@@ -1,9 +1,9 @@
 # 🎬 Fashion Video Analyzer Ai
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Next.js](https://img.shields.io/badge/Next.js-13+-black?logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-15+-black?logo=next.js)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3+-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
-[![Python](https://img.shields.io/badge/Python-3.10+-yellow?logo=python)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12+-yellow?logo=python)](https://www.python.org/)
 
 A **blazing-fast, AI-powered video analyzer** built with **Next.js**, **Tailwind CSS**, and a robust **Python backend**.  
 Effortlessly analyze videos for **key frames, object detection, audio transcripts, and AI-generated summaries** in a modern web interface.
@@ -103,6 +103,34 @@ python analyze_video_fast.py <video.mp4> output.json [device]
 - `[device]`: Optional, use `cpu` or `cuda`
 
 ---
+
+## 🛠️ Integrating Ollama Llama 3.2 Vision
+
+Ollama **Llama 3.2 Vision** is required for AI-powered image and video frame analysis.
+
+---
+
+### 1️⃣ Install Ollama
+
+- Download Ollama from the [official website](https://ollama.com)  
+- Follow the installation instructions for your OS
+
+---
+
+### 2️⃣ Pull the Llama 3.2 Vision Model
+
+Open a terminal and run:
+
+This will download the ollama model 
+```bash
+ollama pull llama3.2-vision
+
+
+This command will run the ollama model
+```bash
+ollama serve
+
+
 
 ## 🖱 Usage
 
